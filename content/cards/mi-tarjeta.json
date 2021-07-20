@@ -41,7 +41,7 @@
           },
           {
             "title": "Celular",
-            "type": "telefono",
+            "type": "phone",
             "value": "+528116313569",
             "icon": "mdi:cellphone"
           },
