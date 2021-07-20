@@ -1,35 +1,24 @@
 {
-  "title": "Template Empresa",
+  "card": {
+    "name": "Mi tarjeta",
+    "icon": "mdi:account"
+  },
+  "title": "Me",
   "sections": [
     {
-      "name": "Nosotros",
-      "id": "about",
-      "icon": "mdi:domain",
-      "type": "Articulo",
-      "section": "/section/articles/generic"
+      "name": "Timeline",
+      "section": "/section/timelines/hoja-de-vida",
+      "icon": "fe:timeline"
     },
     {
-      "name": "Dirección",
-      "type": "Mapa",
-      "id": "ubication",
-      "icon": "mdi:map",
-      "section": "/section/maps/ubicacion-simple"
+      "name": "Skills",
+      "section": "/section/skills/skills",
+      "icon": "carbon:skill-level-intermediate"
     },
     {
-      "name": "Productos",
-      "section": "/section/products/generic",
-      "icon": "mdi:briefcase"
-    },
-    {
-      "name": "Contactanos",
-      "type": "Urls_Externos",
-      "id": "contact",
-      "icon": "mdi:forum",
-      "section": "/section/links/generic"
+      "name": "Code",
+      "section": "/section/links/me",
+      "icon": "fa-brands:github"
     }
-  ],
-  "card": {
-    "icon": "mdi:account",
-    "name": "Mi tarjeta"
-  }
+  ]
 }
