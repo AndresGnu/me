@@ -97,6 +97,10 @@
           "body": {
             "title": "Fisa Group: Pagina Web",
             "text": "Pagina web corporativa multi-idioma"
+          },
+          "action": {
+            "text": "Ver Proyecto",
+            "url": "https://www.fisagrp.com/"
           }
         },
         {
@@ -107,6 +111,10 @@
           "body": {
             "title": "NitroStock: Ecommerce de llantas",
             "text": "Pagina web, sistema de articulos y pedidos, pasarelas de pago Ecuador."
+          },
+          "action": {
+            "text": "Ver Proyecto",
+            "url": "https://nitrostock.com/"
           }
         },
         {
