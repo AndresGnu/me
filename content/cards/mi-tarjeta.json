@@ -9,10 +9,10 @@
       "work": "andresgnu@pm.me"
     },
     "socialUrls": {
-      "facebook": "/",
-      "twitter": "/",
-      "linkedIn": "/",
-      "flickr": "/"
+      "facebook": "",
+      "twitter": "",
+      "linkedIn": "",
+      "flickr": ""
     }
   },
   "selectTheme": true,
@@ -35,14 +35,14 @@
           {
             "title": "Whatsapp",
             "type": "whatsapp",
-            "value": "0999999999",
+            "value": "+528116313569",
             "icon": "mdi:whatsapp",
             "description": "Hola quisiera hacer un pedido"
           },
           {
             "title": "Celular",
             "type": "telefono",
-            "value": "0999999999",
+            "value": "+528116313569",
             "icon": "mdi:cellphone"
           },
           {
