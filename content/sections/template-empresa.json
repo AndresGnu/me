@@ -3,7 +3,7 @@
     "name": "Mi tarjeta",
     "icon": "mdi:account"
   },
-  "title": "Me",
+  "title": "Mis secciones",
   "sections": [
     {
       "name": "Timeline",
